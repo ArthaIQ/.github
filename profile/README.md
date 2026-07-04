@@ -767,8 +767,8 @@ Send a Credit Copilot message. Stateless — include conversation history with e
 | | Chart.js + react-chartjs-2 | 4 | Radar + waterfall charts |
 | | Zustand | 4 | Global state (msmeProfile, scoreResult slices) |
 | | Axios | 1.6 | HTTP client with JWT interceptor |
-| **Backend** | Spring Boot | 3.2 | API gateway + orchestrator |
-| | Java | 21 | Runtime |
+| **Backend** | Spring Boot | 3.5 | API gateway + orchestrator |
+| | Java | 17 | Runtime |
 | | Spring Security + JJWT | — | JWT authentication + RBAC |
 | | Spring Data JPA | — | ORM + repositories |
 | | Flyway | — | Database schema migrations |
